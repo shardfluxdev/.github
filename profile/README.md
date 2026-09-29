@@ -6,4 +6,4 @@
 
 We're building persistent, isolated cloud workspaces for AI agents. Shardflux is coming soon.
 
-[Website](https://shardflux.dev) · [Follow on X](https://x.com/Shardfluxdev)
+[Website](https://shardflux.dev) · [Documentation](https://docs.shardflux.dev) · [Support and bugs](https://github.com/shardfluxdev/community) · [Follow on X](https://x.com/Shardfluxdev)
