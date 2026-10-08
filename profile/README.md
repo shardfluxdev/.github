@@ -1,10 +1,10 @@
 <a href="https://shardflux.dev">
-  <img src="https://raw.githubusercontent.com/shardfluxdev/.github/main/profile/assets/shardflux-banner.png" alt="Shardflux. Your coding setup. Ready in the cloud." width="1500">
+  <img src="https://raw.githubusercontent.com/shardfluxdev/.github/main/profile/assets/shardflux-banner.png" alt="Shardflux. Cloud workspaces for coding agents. Set up your way." width="1500">
 </a>
 
-### Your coding setup. Ready in the cloud.
+### Cloud workspaces for coding agents. Set up your way.
 
-Shardflux runs your coding agents with your setup, without you managing their machines. Claude Code and Codex work on your project in the cloud with your tools, logins and settings, and keep working when you close your laptop.
+Prepare your project's tools and dependencies once, then reuse them in a separate workspace for each agent. Attach shared files where you choose. Your coding agent can handle the setup, and Claude Code or Codex keeps working when you close your laptop.
 
 ```sh
 npm i -g shardflux
